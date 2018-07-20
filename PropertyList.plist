@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://bmob-cdn-16052.b0.upaiyun.com/2018/07/16/41d9c0444088a605809e8751e39f030c.ipa</string>
+					<string>http://bmob-cdn-16052.b0.upaiyun.com/2018/07/20/6f53835a4064586980890f0d18efb555.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>werwwr90809282ddd</string>
+				<string>com.drcpb222</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.20</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
